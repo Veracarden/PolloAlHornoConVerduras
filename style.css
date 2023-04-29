@@ -1,0 +1,17 @@
+header {
+    background-color: rgb(185, 142, 41);
+    padding: 20px;
+	font-size: 15px;
+	color: rgb(252, 244, 217);
+}
+
+body {
+	margin: 0;
+	font-size: 18px;
+}
+
+.imagen {
+	position: absolute;
+	top: 170px;
+	left: 500px;
+}
