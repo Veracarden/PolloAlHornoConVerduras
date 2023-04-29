@@ -1,0 +1,14 @@
+header {
+    background-color: rgb(190, 146, 33);
+    color: rgb(221, 193, 122);
+}
+
+body {
+    margin: 0;
+}
+
+.image {
+    position: absolute;
+    top: 120px;
+    left: 500px;
+}
