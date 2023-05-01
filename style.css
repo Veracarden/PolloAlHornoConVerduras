@@ -1,14 +1,19 @@
 header {
-    background-color: rgb(190, 146, 33);
-    color: rgb(221, 193, 122);
+    background-color: rgb(152, 113, 15);
+    color: rgb(231, 215, 176);
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
 }
 
 body {
     margin: 0;
 }
 
-.image {
+.imagen {
     position: absolute;
-    top: 120px;
-    left: 500px;
+    top: 100px;
+    left: 500px; 
 }
